@@ -1,4 +1,3 @@
-[![MasterHead](https://thumbs.dreamstime.com/b/modern-cartoon-illustration-woman-writing-software-code-developing-game-mobile-app-night-student-studying-316974289.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Annaparipooranam</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1024/1*DpimwjeWqoAHbBLjuwKsHA.png">
